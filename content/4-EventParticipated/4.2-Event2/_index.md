@@ -141,9 +141,9 @@ Beyond technical knowledge, the presentations on teamwork and the career journey
 + Building a solid foundation in Linux, Networking, Cloud Computing, and DevOps, together with hands-on experience and a strong project portfolio, creates a significant advantage for long-term career growth in the Information Technology industry.
 
 #### Some event photos
-![Picture](aws/images/4-EventParticipated/Event2.1.png)
-![Picture](aws/images/4-EventParticipated/Event2.2.jpg)
-![Picture](aws/images/4-EventParticipated/Event2.3.jpg)
-![Picture](aws/images/4-EventParticipated/Event2.4.jpg)
-![Picture](aws/images/4-EventParticipated/Event2.5.jpg)
-![Picture](aws/images/4-EventParticipated/Event2.6.jpg)
+![Picture](/aws/images/4-EventParticipated/Event2.1.png)
+![Picture](/aws/images/4-EventParticipated/Event2.2.jpg)
+![Picture](/aws/images/4-EventParticipated/Event2.3.jpg)
+![Picture](/aws/images/4-EventParticipated/Event2.4.jpg)
+![Picture](/aws/images/4-EventParticipated/Event2.5.jpg)
+![Picture](/aws/images/4-EventParticipated/Event2.6.jpg)

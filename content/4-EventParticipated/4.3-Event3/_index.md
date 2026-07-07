@@ -134,5 +134,5 @@ Overall, the event highlighted the importance of integrating Artificial Intellig
 + Integrating Artificial Intelligence, Cloud Operations, DevOps, and Security is becoming a key trend in building modern enterprise systems. 
 
 #### Some event photos
-![Picture](aws/images/4-EventParticipated/Event3.1.png)
-![Picture](aws/images/4-EventParticipated/Event3.2.png)
+![Picture](/aws/images/4-EventParticipated/Event3.1.png)
+![Picture](/aws/images/4-EventParticipated/Event3.2.png)
