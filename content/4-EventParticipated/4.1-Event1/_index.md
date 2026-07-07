@@ -120,8 +120,8 @@ The event also provided an excellent opportunity to connect with experts and mem
 + The Hackathon experience demonstrated that effective time management, strong teamwork, and focusing on building a Minimum Viable Product (MVP) are essential factors for successful product development.
 
 #### Some event photos
-![Picture](/images/4-EventParticipated/Event1.1.png)
-![Picture](/images/4-EventParticipated/Event1.2.png)
-![Picture](/images/4-EventParticipated/Event1.3.jpg)
-![Picture](/images/4-EventParticipated/Event1.4.jpg)
-![Picture](/images/4-EventParticipated/Event1.5.jpg)
+![Picture](aws/images/4-EventParticipated/Event1.1.png)
+![Picture](aws/images/4-EventParticipated/Event1.2.png)
+![Picture](aws/images/4-EventParticipated/Event1.3.jpg)
+![Picture](aws/images/4-EventParticipated/Event1.4.jpg)
+![Picture](aws/images/4-EventParticipated/Event1.5.jpg)

@@ -141,9 +141,9 @@ Bên cạnh kiến thức kỹ thuật, phần chia sẻ về Teamwork và hành
 + Việc xây dựng nền tảng vững chắc về Linux, Networking, Cloud và DevOps, cùng với thực hành dự án thực tế và phát triển Portfolio, sẽ tạo lợi thế lớn trong quá trình phát triển nghề nghiệp trong lĩnh vực Công nghệ thông tin.
 
 #### Một số hình ảnh khi tham gia sự kiện
-![Ảnh](/images/4-EventParticipated/Event2.1.png)
-![Ảnh](/images/4-EventParticipated/Event2.2.jpg)
-![Ảnh](/images/4-EventParticipated/Event2.3.jpg)
-![Ảnh](/images/4-EventParticipated/Event2.4.jpg)
-![Ảnh](/images/4-EventParticipated/Event2.5.jpg)
-![Ảnh](/images/4-EventParticipated/Event2.6.jpg)
+![Ảnh](aws/images/4-EventParticipated/Event2.1.png)
+![Ảnh](aws/images/4-EventParticipated/Event2.2.jpg)
+![Ảnh](aws/images/4-EventParticipated/Event2.3.jpg)
+![Ảnh](aws/images/4-EventParticipated/Event2.4.jpg)
+![Ảnh](aws/images/4-EventParticipated/Event2.5.jpg)
+![Ảnh](aws/images/4-EventParticipated/Event2.6.jpg)

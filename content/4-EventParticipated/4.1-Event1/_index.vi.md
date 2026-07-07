@@ -113,8 +113,8 @@ Bên cạnh đó, sự kiện còn tạo cơ hội giao lưu với các chuyên 
 + Kinh nghiệm từ Hackathon cho thấy việc quản lý thời gian, phối hợp nhóm và tập trung vào MVP là những yếu tố quyết định thành công của một dự án.
 
 #### Một số hình ảnh khi tham gia sự kiện
-![Ảnh](/images/4-EventParticipated/Event1.1.png)
-![Ảnh](/images/4-EventParticipated/Event1.2.png)
-![Ảnh](/images/4-EventParticipated/Event1.3.jpg)
-![Ảnh](/images/4-EventParticipated/Event1.4.jpg)
-![Ảnh](/images/4-EventParticipated/Event1.5.jpg)
+![Ảnh](aws/images/4-EventParticipated/Event1.1.png)
+![Ảnh](aws/images/4-EventParticipated/Event1.2.png)
+![Ảnh](aws/images/4-EventParticipated/Event1.3.jpg)
+![Ảnh](aws/images/4-EventParticipated/Event1.4.jpg)
+![Ảnh](aws/images/4-EventParticipated/Event1.5.jpg)
