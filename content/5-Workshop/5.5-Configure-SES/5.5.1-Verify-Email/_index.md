@@ -14,8 +14,8 @@ Log in to the **AWS Management Console**, search for **Amazon SNS**, and select 
 
 Select **Create topic** and configure the following information:
 
-    - **Type:** Standard
-    - **Name:** `dental-clinic-notification`
+- **Type:** Standard
+- **Name:** `dental-clinic-notification`
 
 Keep the default settings and select **Create topic**.
 
@@ -25,11 +25,11 @@ Keep the default settings and select **Create topic**.
 
 After the Topic is created, register an email address to receive notifications.
 
-    1. Open the newly created Topic.
-    2. Select **Create subscription**.
-    3. Under **Protocol**, select **Email**.
-    4. Under **Endpoint**, enter the email address that will receive notifications.
-    5. Select **Create subscription**.
+1. Open the newly created Topic.
+2. Select **Create subscription**.
+3. Under **Protocol**, select **Email**.
+4. Under **Endpoint**, enter the email address that will receive notifications.
+5. Select **Create subscription**.
 
 ---
 
@@ -49,8 +49,8 @@ On the Topic interface, select **Publish message**.
 
 Enter the following information for testing:
 
-    - **Subject:** Dental Clinic Notification
-    - **Message:** Test notification from Dental Clinic Management System.
+- **Subject:** Dental Clinic Notification
+- **Message:** Test notification from Dental Clinic Management System.
 
 Then select **Publish message**.
 
