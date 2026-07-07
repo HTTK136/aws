@@ -14,12 +14,10 @@ For the backend to access DynamoDB, the system needs to be provided with credent
 
 ```yaml
 aws:
-credentials:
-access-key-id: ${AWS_ACCESS_KEY_ID}
-
-secret-access-key: ${AWS_SECRET_ACCESS_KEY}
-
-region: ${AWS_REGION}
+  credentials:
+    access-key-id: ${AWS_ACCESS_KEY_ID}
+    secret-access-key: ${AWS_SECRET_ACCESS_KEY}
+  region: ${AWS_REGION}
 
 ### 2. Check DynamoDB Connection
 

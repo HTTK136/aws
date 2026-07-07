@@ -33,13 +33,10 @@ After creating the Bucket, configure the Bucket information in the `application.
 
 ```yaml
 aws:
+  region: ${AWS_REGION}
 
-region: ${AWS_REGION}
-
-
-s3:
-
-bucket-name: ${AWS_S3_BUCKET_NAME}
+  s3:
+    bucket-name: ${AWS_S3_BUCKET_NAME}
 ```
 
 Where:

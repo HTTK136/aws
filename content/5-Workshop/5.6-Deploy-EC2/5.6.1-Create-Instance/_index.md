@@ -63,19 +63,14 @@ In the **Network settings** section, create a new Security Group or use an exist
 In this workshop, the Security Group is configured to open the necessary ports:
 
 | Type | Port | Purpose |
-
 |------|------|----------|
-
 | SSH | 22 | SSH connection to EC2 |
-
 | HTTP | 80 | Access application via HTTP |
-
 | Custom TCP | 8080 | Access Spring Boot Backend |
 
 The source is configured as:
 
 ```text
-
 0.0.0.0/0
 ```
 

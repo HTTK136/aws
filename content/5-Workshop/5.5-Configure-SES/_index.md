@@ -44,22 +44,18 @@ Update the `application.yml` file to declare the necessary information:
 
 ```yaml
 aws:
+  region: ${AWS_REGION}
 
-region: ${AWS_REGION}
+  ses:
+    sender-email: ${AWS_SES_SENDER_EMAIL}
 
-ses:
-
-sender-email: ${AWS_SES_SENDER_EMAIL}
-
-sns:
-
-topic-arn: ${AWS_SNS_TOPIC_ARN}
+  sns:
+    topic-arn: ${AWS_SNS_TOPIC_ARN}
 ```
 
 Where:
 
 - `AWS_SES_SENDER_EMAIL`: The email address verified on Amazon SES.
-
 - `AWS_SNS_TOPIC_ARN`: The ARN of the Topic created on Amazon SNS.
 
 After completing the configuration and restarting the Backend, the system is ready to send emails via Amazon SES and broadcast notifications via Amazon SNS.

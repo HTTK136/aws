@@ -11,18 +11,12 @@ In this step, we will create an **Amazon S3 Bucket** to store images for the **D
 ### Creating an S3 Bucket
 
 1. Log in to the **AWS Management Console**.
-
 2. Search for **Amazon S3**.
-
 3. Select **Buckets**.
-
 4. Select **Create bucket**.
-
 5. Configure the Bucket with the following information:
-
-- **Bucket name:** `dental-service-images-huy`
-
-- **AWS Region:** `Asia Pacific (Singapore) - ap-southeast-1`
+   - **Bucket name:** `dental-service-images-huy`
+   - **AWS Region:** `Asia Pacific (Singapore) - ap-southeast-1`
 6. Keep the default settings and select **Create bucket**.
 
 After successful creation, the Bucket will appear in the Amazon S3 Buckets list.

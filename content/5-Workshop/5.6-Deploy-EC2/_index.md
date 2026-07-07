@@ -17,20 +17,13 @@ Log in to the **AWS Management Console**, search for **Amazon EC2**, and select 
 Configure the EC2 as follows:
 
 - **Name:** Dental-Backend
-
 - **Amazon Machine Image (AMI):** Amazon Linux 2023
-
 - **Instance type:** t3.micro
-
 - **Key pair:** Use or create a new Key Pair to connect via SSH.
-
 - **Security Group:**
-
-- SSH (22)
-
-- HTTP (80)
-
-- Custom TCP (8080)
+  - SSH (22)
+  - HTTP (80)
+  - Custom TCP (8080)
 
 After completing the configuration, press **Launch Instance** to create the EC2 server.
 
@@ -67,7 +60,6 @@ After the application starts successfully, the backend will automatically connec
 
 - Amazon DynamoDB
 - Amazon S3
-
 - Amazon SES
 - Amazon SNS
 
@@ -80,7 +72,6 @@ to handle data storage, image management, and email notifications.
 After deployment is complete, access the backend via the EC2 public IP address:
 
 ```text
-
 http://<Public-IP>:8080
 ```
 

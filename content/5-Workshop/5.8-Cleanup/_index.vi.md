@@ -55,7 +55,7 @@ Trong phần này, chúng ta sẽ lần lượt xóa các tài nguyên đã sử
 > **Lưu ý:** Trong Workshop này, nhóm **không thực hiện xóa các bảng Amazon DynamoDB** vì dữ liệu vẫn còn được sử dụng cho quá trình phát triển, kiểm thử và demo hệ thống.
 
 
-### 5.8.5. Xóa Amazon SES Identity
+### 5.8.4. Xóa Amazon SES Identity
 
 1. Truy cập **Amazon SES**.
 2. Chọn **Configuration → Identities**.
