@@ -6,12 +6,12 @@ chapter: false
 pre: " <b> 2. </b> "
 ---
 
-# Dental Clinic System
+# Dental Clinic Management System
 ## Dental Clinic Appointment and Management Website on AWS Cloud
 
 ### 1. Executive Summary
 
-The **Dental Clinic System** is a web-based application that enables patients to book dental appointments online, browse available services, track appointment status, and receive notifications from the clinic. The system also assists dentists and administrators in managing appointments, dental services, patient records, and daily clinic operations.
+The **Dental Clinic Management System** is a web-based application that enables patients to book dental appointments online, browse available services, track appointment status, and receive notifications from the clinic. The system also assists dentists and administrators in managing appointments, dental services, patient records, and daily clinic operations.
 
 The system is built on a **Cloud Native Architecture** using AWS services to provide high availability, security, scalability, and performance. The frontend is deployed using **AWS Amplify**, while the backend is developed with **Spring Boot** and hosted on **Amazon EC2**. Application data is stored in **Amazon DynamoDB**, medical images and uploaded files are stored in **Amazon S3**, and services such as **CloudWatch, SNS, SES, AWS WAF, IAM, Secrets Manager, and AWS KMS** are integrated to ensure reliable and secure operation.
 
