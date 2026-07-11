@@ -7,7 +7,7 @@ pre: " <b> 6. </b> "
 ---
 
 
-During my internship at Amazon Web Services Vietnam Co., Ltd. from April 20, 2026 to July 12, 2026, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
+During my internship at Amazon Web Services Vietnam Co., Ltd. from April 17, 2026 to July 30, 2026, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
 I participated in testing and project architecture drawing, through which I improved my skills in communication and project analysis.
 
 In terms of work ethic, I always strived to complete tasks well, complied with workplace regulations, and actively engaged with colleagues to improve work efficiency.
